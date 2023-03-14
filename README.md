@@ -26,7 +26,6 @@ BACKEND:
 - DJANGO ( web development framework )
 - PYTHON ( backend programming language )
 - Sqlite3 ( Django database )
-- Ganache (Truffle Suite framework).
 - WEB3
 
 ## TO CLONE THIS PROJECT
